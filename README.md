@@ -15,7 +15,7 @@ and a pointer to the next integer in the stack. The idea is to be able to organi
 using pointers. Next, I create a "Stack" class that is used to modify how the objects point to each other.
 This is where I implement all the methods noted above.
 
-TESTING
+***TESTING***
 
 I did not create any extra testing files to save myself some time. I included a few basic commands in this file that should
 hopefully be enough to demonstrate that the stack works as it should. All you have to do is run the current file 
