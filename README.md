@@ -1,12 +1,19 @@
 # Algo-UChicago-Assessment-Kossay-Srayaldin
+
 Name: Kossay Srayaldin
+
 Algo Group Uchicago Assessment. 
 
 Option 2: Implement Stack
+
 Create an integer stack without containers (list, vector, array, etc.) with methods:
+
     "push" adds an integer to the top and does not return anything
+    
     "pop" returns and removes the integer at the top. If the stack is empty, an error is thrown
+    
     "peek" returns the integer at the top. If the stack is empty, an error is thrown.
+    
     "size" return an integer - the number of values on the stack
 
 Method: I implement this stack using linked lists (standard method). To do this, I create a
